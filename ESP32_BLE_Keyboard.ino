@@ -31,8 +31,8 @@
 #include "esp_random.h"
 
 // ─── !! Edit these two lines !! ──────────────────────────────────────────────
-#define WIFI_SSID  "Proximus-Home-CBD0"
-#define WIFI_PASS  "ww73kdd94zad3"
+#define WIFI_SSID  "WIFI_SSID_HERE"
+#define WIFI_PASS  "WIFI_PASS_HERE"
 // ─────────────────────────────────────────────────────────────────────────────
 
 const char*    QUEUE_FILE   = "/queue.txt";

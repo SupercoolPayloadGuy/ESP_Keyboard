@@ -22,3 +22,6 @@ function App() {
 export default App;
 """
 
+9. go to terminal and type npm start
+10. from there you can type
+
